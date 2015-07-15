@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 314f3e55784ee3b45a64c1769f40f31e
+timeCreated: 1436916093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mall cop
+    21300002: head
+    21300004: body
+    21300006: right_foot
+    21300008: baton
+    21300010: shoulder
+    21300012: eyes_close
+    21300014: eyes_open
+    21300016: left_foot
+    21300018: hand
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 273
+        width: 147
+        height: 150
+      alignment: 9
+      pivot: {x: .386108309, y: .0981901065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 107
+        width: 216
+        height: 180
+      alignment: 9
+      pivot: {x: .582676947, y: .468996078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_foot
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 43
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: .327458441, y: .704893112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baton
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 190
+        width: 57
+        height: 159
+      alignment: 9
+      pivot: {x: .341836482, y: .206191063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoulder
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 121
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyes_close
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 272
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyes_open
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 354
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_foot
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 42
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: .666692436, y: .69868356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 52
+        height: 48
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
